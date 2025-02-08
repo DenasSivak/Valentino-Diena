@@ -1,0 +1,61 @@
+*{
+    margin:0 ;
+    padding:0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    color: #ea46af;
+    font-family:cursive;
+    font-size: 50px;
+    margin: 50px;
+}
+img{
+    width: 500px;
+    height: auto;
+    border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+}
+p{
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    line-height: 30px;
+    margin-top: 20px;
+}
+div{
+    outline: 2px dashed red;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 20px;
+}
+.foto1{
+    background-image: url(sirdele.jpg); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+.foto2{
+    background-image: url(sokoladas.jpg); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+}.foto3{
+    background-image: url(manosirdis.jpg); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+body{
+    text-align: center;
+}
+p{
+    font-family:'Dancing Script', cursive; 
+}
